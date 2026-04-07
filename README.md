@@ -6,7 +6,9 @@
 - 二级表头拖拽
 - 表体行拖拽
 
-为了方便观察整个流程，项目保留了一层内存版 mock backend。也就是说，这里演示的不只是“前端把数组拖来拖去”，而是更接近真实项目里的这条链路：拖拽、提交排序、重新拉取数据、再重建表格。
+为了方便观察整个流程，项目保留了一层内存版 mock backend
+
+[demo 在线预览](https://strugglebak.github.io/vue-draggable-table-demo/)
 
 ## 项目里有什么
 
